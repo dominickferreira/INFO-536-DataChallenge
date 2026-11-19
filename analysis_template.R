@@ -6,7 +6,7 @@
 
 # Checks:
 
-# Documentation:
+# Documentation: Yeji Jeon
 
 library(tidyverse)
 gtd <- read_csv("data/gtd_sample.csv")
