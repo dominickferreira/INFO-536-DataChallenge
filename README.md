@@ -8,13 +8,13 @@ fills in the sections below as the work is completed. Role 5 is responsible for 
 
 | Role | Team member | Branch |
 |:-----|:------------|:-------|
-| 1: Wrangling | | `role1-wrangle` |
-| 2: Summary | | `role2-summary` |
-| 3: Plot | | `role3-plot` |
-| 4: Checks | | `role4-checks` |
+| 1: Wrangling | Aarush Narang | `role1-wrangle` |
+| 2: Summary | Manasvi Reddy Potla | `role2-summary` |
+| 3: Plot | Dominick Ferreira | `role3-plot` |
+| 4: Checks | Kayla Smith | `role4-checks` |
 | 5: Documentation | Yeji Jeon | `role5-docs` |
 
-Repository owner:
+Repository owner: Dominick Ferreira
 
 ## Question
 
