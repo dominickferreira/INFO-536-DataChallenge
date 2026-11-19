@@ -12,7 +12,7 @@ fills in the sections below as the work is completed. Role 5 is responsible for 
 | 2: Summary | | `role2-summary` |
 | 3: Plot | | `role3-plot` |
 | 4: Checks | | `role4-checks` |
-| 5: Documentation | | `role5-docs` |
+| 5: Documentation | Yeji Jeon | `role5-docs` |
 
 Repository owner:
 
