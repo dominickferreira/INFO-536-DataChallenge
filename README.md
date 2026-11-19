@@ -19,6 +19,15 @@ Repository owner: Dominick Ferreira
 ## Question
 
 ## Data Dictionary
+| Variable | Description |
+|----------|-------------|
+| iyear | Year of the attack |
+| region_txt | Geographic region where the attack occurred |
+| country_txt | Country where the attack occurred |
+| attacktype1_txt | Primary type of attack |
+| nkill | Number of people killed in the attack |
+| success | Indicator of whether the attack was successful (1 = yes, 0 = no) |
+| decade | Decade derived from iyear, such as "1990s" |
 
 ## Interpretation
 
