@@ -1,5 +1,5 @@
 # Contributors
-# Wrangling: Aarush Narang
+# Wrangling: Aarush
 # Summary:
 
 # Plot:
